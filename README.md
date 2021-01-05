@@ -1,4 +1,5 @@
-# CSS_creative_animations
+# CSS Creative Animations🚀🚀
 ## Example👇
 
-<img src="https://j.gifs.com/91kkY8.gif">
+### 1) Loading Animation 🔃
+<img src="https://j.gifs.com/91kkY8.gif" height ="40%" width="40%">
