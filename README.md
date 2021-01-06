@@ -6,3 +6,6 @@
 
 ### 2) Neuromorphism Animation 🎢
 <img src="https://j.gifs.com/L7KQOj.gif" height ="40%" width="40%">
+
+### 3) Running Girl Animation 🏃‍♀️
+<img src="https://j.gifs.com/yoVRvE.gif" height ="40%" width="40%">
